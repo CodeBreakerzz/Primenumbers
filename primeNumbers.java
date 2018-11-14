@@ -4,7 +4,7 @@ public class primeNumbers {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
+	int a=0;
 	//Prime number
 	for(int n = 2;n<=1000; n++)
 	{
